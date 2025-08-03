@@ -53,6 +53,10 @@
 - **Tech:** `Python`, `LSTM`, `Plotly`, `Streamlit`
 - Achieved **95%+ accuracy** on S&P 500 predictions and reduced data display latency by **65%** with optimized data handling.
 
+#### Perplexity-like AI Web App 
+- **Tech:** `LangGraph`, `LangChain`, `Web-Search`
+- Built a real-time web search LLM app inspired by **Perplexity** using LangGraph and LangChain. 
+
 ---
 
 ### 📊 GitHub Stats
