@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gagan Yadav</h1>
 <p align="center">
   <b>CS Grad | AI/ML & GenAI Developer | Python Backend Engineer</b><br>
-  <i>I build smart systems that combine code with real-world business logic.</i>
+  <i>I build scalable systems that combine code with real-world business logic.</i>
 </p>
 
 ---
