@@ -88,7 +88,7 @@
 
 ### 🌐 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gagan_Yadav-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagan-yadav-882932231/)  
-✉️ gagan.yadav@example.com *(replace with your real one)*
+✉️ gaganyadav2209@gmail.com *(replace with your real one)*
 
 ---
 
