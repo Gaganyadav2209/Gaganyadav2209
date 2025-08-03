@@ -58,7 +58,8 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gagan-yadav&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-yadav&layout=compact&theme=radical&exclude_repo=YOUR-REPO-NAME-HERE" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-yadav&layout=compact&theme=radical&include=Python&langs_count=1" width="48%"/>
+
 </p>
 
 ---
@@ -74,4 +75,4 @@
   </a>
 </p>
 
-> “I love solving business problems with code — especially when AI is involved.”
+<p> “I love solving business problems with code — especially when AI is involved.” </p>
