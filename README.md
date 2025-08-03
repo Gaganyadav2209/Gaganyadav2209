@@ -62,7 +62,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gagan-yadav&show_icons=true&theme=radical" width="48%"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-yadav&layout=compact&theme=radical&hide=java" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-yadav&layout=compact&theme=radical&hide=java,html,css,javascript" width="48%"/>
 </p>
 
 ---
