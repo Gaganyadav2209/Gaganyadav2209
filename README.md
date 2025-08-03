@@ -79,4 +79,4 @@
   </a>
 </p>
 
-<p> **“I love solving business problems with code — especially when AI is involved.”** </p>
+<p><b>“I love solving business problems with code — especially when AI is involved.”</b></p>
